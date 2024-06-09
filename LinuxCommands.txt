@@ -1,0 +1,5 @@
+ls - to see the list
+mkdir- make new directory
+cd - see the directory.
+ping - to see the connectivity of webpage
+vi - edit the data.
