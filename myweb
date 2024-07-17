@@ -6,7 +6,7 @@ PATH = "/opt/maven3/bin:$PATH"
 stages{
 stage("Git Checkout"){
 steps{
-git credentialsId: 'javahome2', url: "https://github.com/Narendra239/Devops.git"
+git credentialsId: 'Narendra239', url: "https://github.com/Narendra239/Devops.git"
 }
 }
 stage("Maven Build"){
